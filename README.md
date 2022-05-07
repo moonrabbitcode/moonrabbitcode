@@ -22,9 +22,10 @@
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-### DB
+### DB & BACKUP
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 ## 📮 PROJECT
 
@@ -38,6 +39,8 @@
 ### 달요
 - MFBot가 섭종을 하고 더 많은 기능, 퀄리티가 좋은 달요가 출시 됬어요!
 - 달요는 저랑, 별님이랑 합작으로 만들어 졌어요!
+- 뜻은 달🌖과 별님의 예전 이름 BUTTER_요한 을 줄여서 달요 라고 불러요!
+- 뜻이 하나 더있어요! 달달한 요거트라는 뜻이예요!
 
 [달요초대하기](http://www.moonyo-invite.kro.kr/)
 [달요봇 서포트 서버 가기](http://www.moonyo-support.kro.kr/)
@@ -45,3 +48,9 @@
 ## 😀 SUPPORT
 
 - 디스코드 달🌖#1799 DM해주세요!
+- 이메일은 moonrabbit0618@gmail.com 이예요!
+
+## ⛏️ github post
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=moonrabbitcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrabbitcode&layout=compact&langs_count=7&theme=dracula"/>
