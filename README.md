@@ -39,8 +39,8 @@
 - MFBot가 섭종을 하고 더 많은 기능, 퀄리티가 좋은 달요가 출시 됬어요!
 - 달요는 저랑, 별님이랑 합작으로 만들어 졌어요!
 
-달요초대하기(http://www.moonyo-invite.kro.kr/)
-달요봇 서포트 서버 가기(http://www.moonyo-support.kro.kr/)
+[달요초대하기](http://www.moonyo-invite.kro.kr/)
+[달요봇 서포트 서버 가기](http://www.moonyo-support.kro.kr/)
 
 ## 😀 SUPPORT
 
