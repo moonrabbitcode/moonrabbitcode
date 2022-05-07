@@ -42,7 +42,7 @@
 - 뜻은 달🌖과 별님의 예전 이름 BUTTER_요한 을 줄여서 달요 라고 불러요!
 - 뜻이 하나 더있어요! 달달한 요거트라는 뜻이예요!
 
-[달요초대하기](http://www.moonyo-invite.kro.kr/)
+[달요초대하기](http://www.moonyo-invite.kro.kr/)  
 [달요봇 서포트 서버 가기](http://www.moonyo-support.kro.kr/)
 
 ## 😀 SUPPORT
