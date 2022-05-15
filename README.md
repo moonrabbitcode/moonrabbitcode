@@ -47,7 +47,7 @@
 
 ## 😀 SUPPORT
 
-- 디스코드 달🌖#1799 DM해주세요!
+- 디스코드 달🌖#7777 DM해주세요!
 - 이메일은 moonrabbit0618@gmail.com 이예요!
 
 ## ⛏️ github post
